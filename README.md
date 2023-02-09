@@ -12,7 +12,7 @@
 
 Create a new environment
 ----
-py -m pip install --user virtualenv    
+conda create -p venv
 
-py -m venv env
+conda activate venv/
 ----
